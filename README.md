@@ -2,7 +2,7 @@
 
 -----
 
-- Kaggle-GettingStarted-Prediction-Competition
+## Kaggle-GettingStarted-Prediction-Competition
 
 ## 1. Digit Recognizer
 Learn computer vision fundamentals with the famous MNIST data
@@ -34,16 +34,25 @@ Use GANs to create art - will you be the next Monet?
 
 -----
 
-- Kaggle-GettingStarted-Code-Competition
+## Kaggle-GettingStarted-Code-Competition
 
 
 
 ## 9. Contradictory, My Dear Watson
 Detecting contradiction and entailment in multilingual text using TPUs
 
+**This is a Code Competition**
+
+Submissions to this competition must be made by an output from a Kaggle Notebook/Script.
+
+- Notebook run-time per session capped at 2 hours.
+- CPU, GPU, or TPU all allowed.
+- The submission file must contain predictions for the test set, following the format of the sample_submission.csv file on the Data Page. The submission file notebook output must be named submission.csv.
+- Your code will not be re-run, as there is no completely hidden test set.
+
 -----
 
-- Kaggle-GettingStarted-Simulation-Competition
+## Kaggle-GettingStarted-Simulation-Competition
 
 ## 10. Connect X
 Connect your checkers in a row before your opponent!
