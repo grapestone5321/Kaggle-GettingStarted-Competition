@@ -4,16 +4,15 @@
 
 ## Kaggle-GettingStarted-Prediction-Competition
 
-## 1. Digit Recognizer
-Learn computer vision fundamentals with the famous MNIST data
-
-
-## 2. Titanic - Machine Learning from Disaster
+## 1. Titanic - Machine Learning from Disaster
 Start here! Predict survival on the Titanic and get familiar with ML basics
 
-
-## 3. House Prices - Advanced Regression Techniques
+## 2. House Prices - Advanced Regression Techniques
 Predict sales prices and practice feature engineering, RFs, and gradient boosting
+
+## 3. Digit Recognizer
+Learn computer vision fundamentals with the famous MNIST data
+
 
 ## 4. Natural Language Processing with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not
