@@ -50,6 +50,8 @@ Connect your checkers in a row before your opponent!
 
 
 
+**We’re excited to announce a beta-version of a brand-new type of ML competition called Simulations. In Simulation Competitions, you’ll compete against a set of rules, rather than against an evaluation metric. To enter, accept the rules and create a python submission file that can “play” against a computer, or another user.**
+
 
 -----
 
