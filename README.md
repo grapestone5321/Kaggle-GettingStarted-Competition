@@ -1,8 +1,8 @@
-# Kaggle-GettingStarted-Prediction-Competition
+# Kaggle-GettingStarted-Competition
 
 -----
 
-Kaggle-GettingStarted-Prediction-Competition
+- Kaggle-GettingStarted-Prediction-Competition
 
 ## 1. Digit Recognizer
 Learn computer vision fundamentals with the famous MNIST data
@@ -34,7 +34,7 @@ Use GANs to create art - will you be the next Monet?
 
 -----
 
-# Kaggle-GettingStarted-Code-Competition
+- Kaggle-GettingStarted-Code-Competition
 
 
 
@@ -43,7 +43,7 @@ Detecting contradiction and entailment in multilingual text using TPUs
 
 -----
 
-# Kaggle-GettingStarted-Simulation-Competition
+- Kaggle-GettingStarted-Simulation-Competition
 
 ## 10. Connect X
 Connect your checkers in a row before your opponent!
